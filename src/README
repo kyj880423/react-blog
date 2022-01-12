@@ -1,0 +1,12 @@
+어플리케이션 시작 명령어
+npm start
+
+스타일은 무조건 {{}} 괄호 형태로 작성해야함
+스타일 font-size 같은경우는 카멜케이스형태로 작성해야함. fontSize
+
+
+state함수를 이용하여 값을 변경함. 
+
+
+
+[...blogTitle]; object deep copy
